@@ -1,0 +1,10 @@
+/Users/flye/Downloads/FeatureDetection/cmake-build-debug/CMakeFiles/FeatureDetection.dir
+/Users/flye/Downloads/FeatureDetection/cmake-build-debug/CMakeFiles/FeatureDetectionSURF.dir
+/Users/flye/Downloads/FeatureDetection/cmake-build-debug/CMakeFiles/FeatureDetectionFAST.dir
+/Users/flye/Downloads/FeatureDetection/cmake-build-debug/CMakeFiles/FeatureDetectionCanny.dir
+/Users/flye/Downloads/FeatureDetection/cmake-build-debug/CMakeFiles/FeatureDetectionDilation.dir
+/Users/flye/Downloads/FeatureDetection/cmake-build-debug/CMakeFiles/FeatureDetectionMasking.dir
+/Users/flye/Downloads/FeatureDetection/cmake-build-debug/CMakeFiles/FeatureDetectionpipeline.dir
+/Users/flye/Downloads/FeatureDetection/cmake-build-debug/CMakeFiles/FeatureDetectionDownsize.dir
+/Users/flye/Downloads/FeatureDetection/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/flye/Downloads/FeatureDetection/cmake-build-debug/CMakeFiles/rebuild_cache.dir
